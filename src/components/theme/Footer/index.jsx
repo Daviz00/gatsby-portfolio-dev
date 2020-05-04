@@ -7,7 +7,7 @@ export const Footer = () => (
   <Wrapper>
     <Flex as={Container}>
       <Details>
-        <h2>DvX</h2>
+        <h2>Devansh Agarwal</h2>
         <span>
           © All rights are reserved | {new Date().getFullYear()} | Made with{" "}
           <span aria-label="love" role="img">
