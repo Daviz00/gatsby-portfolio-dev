@@ -1,10 +1,10 @@
 module.exports = {
   defaultTitle: 'Devansh Agarwal',
-  logo: 'https://portfolio.smakosh.com/favicon/favicon-512.png',
+  logo: 'https://daviz00.me/favicon/favicon-512.png',
   author: 'Devansh Agarwal',
-  url: 'https://portfolio.smakosh.com',
+  url: 'daviz00.me',
   legalName: 'Devansh Agarwal',
-  defaultDescription: 'I’m Devansh and I’m a Frontend Web engineer!',
+  defaultDescription: 'I’m Devansh and I’m a Frontend Web engineer studying at BITS Pilani, India',
   socialLinks: {
     twitter: 'http://www.twitter.com/IMDaviz00',
     github: 'https://github.com/daviz00',
@@ -13,7 +13,7 @@ module.exports = {
    // youtube: 'https://www.youtube.com/user/',
   //  google: 'https://plus.google.com/u/0/+IsmailSmakoshGhallou',
   },
-  googleAnalyticsID: 'UA-88875900-4',
+  googleAnalyticsID: 'UA-153621884-1',
   themeColor: '#6b63ff',
   backgroundColor: '#6b63ff',
   social: {
@@ -31,4 +31,5 @@ module.exports = {
     phone: '+918860084993',
   },
   foundingDate: '2020',
+  recaptcha_key: '6Lcd9vEUAAAAAGKHlN0KVrXQ-jxlfex3K-rCINRD'
 };
