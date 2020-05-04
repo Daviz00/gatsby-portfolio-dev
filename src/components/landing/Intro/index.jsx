@@ -12,8 +12,7 @@ export const Intro = () => (
       <Details>
         <h1>Hi There!</h1>
         <h4>
-          I’m Devansh and I’m a Frontend Web engineer studying at BITS Pilani,
-          India
+          I’m Devansh and I’m a Frontend Web engineer and Finance Enthusiast
         </h4>
 
         <Button as={AnchorLink} href="#contact">
@@ -23,7 +22,7 @@ export const Intro = () => (
       <Thumbnail>
         <img
           src={dev}
-          alt="I’m Devansh and I’m a Frontend Web engineer studying at BITS Pilani, India"
+          alt="I’m Devansh and I’m a Frontend Web engineer and Finance Enthusiast"
         />
       </Thumbnail>
     </IntroWrapper>
