@@ -18,7 +18,7 @@ export const Skills = () => (
         <p>
           I am a hardworking and ambitious individual with a great passion for
           Computer Science. I am currently in my first year at BITS Pilani, Rajasthan,
-          India seeking undergraduate education in Engineering and Science. I am seeing a
+          India seeking undergraduate education. I am seeing a
           part-time position in the industry in which I can put into practice my
           knowledge and experience, ultimately benefiting the operations of the
           organisation that I work for.
